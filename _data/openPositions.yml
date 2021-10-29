@@ -1,0 +1,59 @@
+
+  
+- name: PhD studentship A
+  code:  
+  image: assets/images/tcd-min.jpeg
+  description: PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
+  location: "Expected start date: September 2021"
+  link: PhDA21
+
+- name: Research Fellow
+  code: 
+  image: assets/images/tcd-min.jpeg
+  description: Research fellow with focus on Machine Learning and/or forecasting
+  location: "Expected start date: January 2022"
+  link: RF1
+  
+- name: Research assistant
+  code: 
+  image: assets/images/tcd-min.jpeg
+  description: Research assistant
+  location: "Expected start date: January 2022"
+  link: RA
+
+  
+- name: Postdoctoral Research position A
+  code: 
+  image: assets/images/tcd-min.jpeg
+  description: Postdoc with focus on Machine Learning and/or forecasting
+  location: "Expected start date: January 2022"
+  link: PDA22
+    
+- name: PhD studentship B
+  code:  
+  image: assets/images/tcd-min.jpeg
+  description: PhD Studentship in Conflict Research with Focus on Forecasting and Machine Learning
+  location: "Expected start date: September 2022"
+  link: PhDB22
+
+- name: Postdoctoral Research position B
+  code: 
+  image: assets/images/tcd-min.jpeg
+  description: Postdoc with focus on Machine Learning and/or forecasting
+  location: "Expected start date: January 2023"
+  link: PDB23
+
+- name: Postdoctoral Research position C
+  code: 
+  image: assets/images/tcd-min.jpeg
+  description: Postdoc with focus on Machine Learning and/or forecasting
+  location: "Expected start date: January 2024"
+  link: PDC24
+
+- name: Postdoctoral Research position D
+  code: 
+  image: assets/images/tcd-min.jpeg
+  description: Postdoc with focus on Machine Learning and/or forecasting
+  location: "Expected start date: January 2025"
+  link: PDD25
+  

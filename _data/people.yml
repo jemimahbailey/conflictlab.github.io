@@ -1,0 +1,57 @@
+- name: bjps2020
+  webpage: "www.thomaschadefaux.com"
+  title: "Professor in Political Science"
+  role: Principal Investigator
+  name: Thomas Chadefaux
+  image: assets/images/chadefauxERC_wide.jpg
+  link: "http://www.thomaschadefaux.com"
+
+- name: RF1
+  webpage: ""
+  role: Research Fellow
+  name: Position to be filled
+  image: assets/images/teamMember.svg
+  link: "http://www.conflictpatterns.com/openPositions"
+
+- name: PD1
+  webpage: ""
+  role: Postdoctoral Researcher
+  name: Position to be filled
+  image: assets/images/teamMember2.svg
+  link: "http://www.conflictpatterns.com/openPositions"
+
+- name: PD2
+  webpage: ""
+  role: Postdoctoral Researcher
+  name: Position to be filled
+  image: assets/images/teamMember.svg
+  link: "http://www.conflictpatterns.com/openPositions"
+
+- name: PD3
+  webpage: ""
+  role: Postdoctoral Researcher
+  name: Position to be filled
+  image: assets/images/teamMember2.svg
+  link: "http://www.conflictpatterns.com/openPositions"
+
+- name: PD4
+  webpage: ""
+  role: Postdoctoral Researcher
+  name: Position to be filled
+  image: assets/images/teamMember.svg
+  link: "http://www.conflictpatterns.com/openPositions"
+
+- name: PhDA21
+  webpage: ""
+  role: PhD student
+  name: Position to be filled
+  image: assets/images/teamMember2.svg
+  link: "http://www.conflictpatterns.com/openPositions"
+  
+- name: PhDB22
+  webpage: ""
+  role: PhD student
+  name: Position to be filled
+  image: assets/images/teamMember.svg
+  link: "http://www.conflictpatterns.com/openPositions"
+  

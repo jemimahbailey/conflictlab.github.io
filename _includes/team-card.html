@@ -1,0 +1,39 @@
+
+<br>
+{% for project in site.data.people %}
+<div class="columns has-text-centered" id="blog-card">
+
+
+  <div class="column  is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
+  id="project-card">
+  <a href="{{project.link}}" target="_blank">
+    <div class="image is-5by3"  style="background-image: url({{project.image}}); background-size: contain;">
+
+    </a>
+  </div>
+</div>
+
+
+<a href="{{project.link}}" target="_blank">
+
+  <div class="column has-text-left-desktop has-text-left-tablet">
+    <div class="content has-text-grey">
+      <h4>
+        <b>{{ project.name  }}</b> <br><br>
+        </h4>
+        <h5>
+        {{ project.role | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br>
+        {{ project.title | truncate: 800 | strip_html | strip_newlines | strip | escape }}<br>
+        {{ project.webpage | truncate: 800 | strip_html | strip_newlines | strip | escape }}
+      </h5>
+    </div>
+  </div>
+</a>
+
+
+
+
+
+</div>
+<br>
+{% endfor %}
