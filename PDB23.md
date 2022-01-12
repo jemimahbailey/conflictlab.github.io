@@ -16,7 +16,7 @@ The holder of the position will contribute to a project that uses machine-learni
 
 The post-holder will work in an exciting environment alongside a highly creative and motivated team, to acquire and analyse time series data from pre-conflict environments (both interstate and civil war), and apply recent machine learning techniques to forecasting the onset of these events.
 
-The expected starting date of the position is **January 2023** (negotiable).
+The expected starting date of the position is **May 2022** (negotiable).
 
 
 
@@ -27,10 +27,10 @@ Applicants should have obtained by the starting date a PhD in a relevant field, 
 
 The following skills are of particular interest:
 
-- Excellent knowledge of R and/or Python (highly desirable)
-- Advanced knowledge of econometrics (highly desirable)
-- Knowledge of machine learning (highly desirable)
-- Experience with programming (highly desirable)
+- Excellent knowledge of R and/or Python (required)
+- Knowledge of machine learning (required)
+- Advanced knowledge of machine learning (highly desirable)
+- Advanced knowledge of econometrics (desirable)
 - Familiarity with Social Sciences (desirable)
 - Familiarity with MLOps (desirable)
 
@@ -42,10 +42,11 @@ The successful applicant will be supervised by Professor [Thomas Chadefaux](http
 Our group is located  in Trinity College, in the heart of Dublin. Trinity was founded in 1592 and is ranked as Ireland’s No.1 University in the QS World University Ranking, THE World University Ranking and the Academic Ranking of World Universities. It is a member of the League of European Research Universities. The Department of Political Science consistently ranks number #1 in Ireland, in the top 20 in Europe and in the top 50 in the world (QS rankings).
 
 Trinity is an equal opportunities employer and is committed to employment policies, procedures and practices which do not discriminate on grounds such as gender, civil status, family status, age, disability, race, religious belief, sexual orientation or membership of the travelling community. On that basis we encourage and welcome talented people from all backgrounds to join our staff community. Trinity’s Diversity Statement can be viewed in full at https://www.tcd.ie/diversity-inclusion/diversity-statement
+
 # Duration and salary
 This project is funded by  ERC Consolidator Grant PaCE (101002240) (2022-26) and is hosted at the Department of Political Science at Trinity College Dublin.
 
-We offer a Specified Purpose Contract (expected duration 3 years). Successful applicants will be hired at a salary in line with their experience. Salaries of postdoctoral researchers follow the [Irish University Associations salary scale](https://www.iua.ie/for-researchers/researcher-salary-scales-career-framework/#), with an expected gross salary of €38,632 in the first year and one point increment per year from thereafter. 
+We offer a Specified Purpose Contract (expected duration 3 years). Successful applicants will be hired at a salary in line with their experience. Salaries of postdoctoral researchers follow the [Irish University Associations salary scale](https://www.iua.ie/for-researchers/researcher-salary-scales-career-framework/#), with an expected gross salary of approximately €41,500 in the first year (point 3) and one point increment per year from thereafter. 
 
 Funds for conference travel (€2,000 per year) and computer resources will also be available. These positions are pensionable.
 
