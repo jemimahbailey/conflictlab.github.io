@@ -6,6 +6,27 @@
   image: assets/images/chadefauxERC_wide.jpg
   link: "http://www.thomaschadefaux.com"
 
+- name: PD1
+  webpage: "https://www.linkedin.com/in/jiancaoecon/"
+  role: Postdoctoral Researcher
+  name: Jian Cao
+  image: assets/images/Cao_Jian.jpg
+  link: "https://www.linkedin.com/in/jiancaoecon/"
+  
+- name: PhDA21
+  webpage: ""
+  role: PhD student
+  name: Hannah Frank
+  image: assets/images/teamMember2.svg
+  link: ""
+  
+- name: PhDB22
+  webpage: ""
+  role: PhD student
+  name: Thomas Schincariol
+  image: assets/images/teamMember.svg
+  link: ""
+  
 - name: RF1
   webpage: ""
   role: Research Fellow
@@ -13,12 +34,7 @@
   image: assets/images/teamMember.svg
   link: "http://www.conflictpatterns.com/openPositions"
 
-- name: PD1
-  webpage: "https://www.linkedin.com/in/jiancaoecon/"
-  role: Postdoctoral Researcher
-  name: Jian Cao
-  image: assets/images/Cao_Jian.jpg
-  link: "https://www.linkedin.com/in/jiancaoecon/"
+
 
 - name: PD2
   webpage: ""
@@ -41,17 +57,5 @@
   image: assets/images/teamMember.svg
   link: "http://www.conflictpatterns.com/openPositions"
 
-- name: PhDA21
-  webpage: ""
-  role: PhD student
-  name: Position to be filled
-  image: assets/images/teamMember2.svg
-  link: "http://www.conflictpatterns.com/openPositions"
-  
-- name: PhDB22
-  webpage: ""
-  role: PhD student
-  name: Position to be filled
-  image: assets/images/teamMember.svg
-  link: "http://www.conflictpatterns.com/openPositions"
+
   
