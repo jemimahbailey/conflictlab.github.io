@@ -13,6 +13,13 @@
   image: assets/images/Cao_Jian.jpg
   link: "https://www.linkedin.com/in/jiancaoecon/"
   
+- name: PM
+  webpage: ""
+  role: Research Fellow
+  name: Jemimah Bailey
+  image: assets/images/JB_reduced.jpg
+  link: ""
+  
 - name: PhDA21
   webpage: ""
   role: PhD student
@@ -27,12 +34,12 @@
   image: assets/images/teamMember.svg
   link: ""
   
-- name: RF1
+- name: RA1
   webpage: ""
-  role: Research Fellow
-  name: Position to be filled
+  role: Research Assistant
+  name: Gareth Lomax
   image: assets/images/teamMember.svg
-  link: "http://www.conflictpatterns.com/openPositions"
+  link: ""
 
 
 
