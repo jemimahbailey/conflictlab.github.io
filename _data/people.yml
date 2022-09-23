@@ -13,6 +13,13 @@
   image: assets/images/Cao_Jian.jpg
   link: "https://www.linkedin.com/in/jiancaoecon/"
   
+- name: PD2
+  webpage: ""
+  role: Research Fellow
+  name: Adalberto Claudio Quiro
+  image: assets/images/teamMember.svg
+  link: ""
+
 - name: PM
   webpage: ""
   role: Research Fellow
@@ -36,33 +43,8 @@
   
 - name: RA1
   webpage: ""
-  role: Research Assistant
+  role: PhD student
   name: Gareth Lomax
   image: assets/images/teamMember.svg
   link: ""
 
-
-
-- name: PD2
-  webpage: ""
-  role: Postdoctoral Researcher
-  name: Position to be filled
-  image: assets/images/teamMember.svg
-  link: "http://www.conflictpatterns.com/openPositions"
-
-- name: PD3
-  webpage: ""
-  role: Postdoctoral Researcher
-  name: Position to be filled
-  image: assets/images/teamMember2.svg
-  link: "http://www.conflictpatterns.com/openPositions"
-
-- name: PD4
-  webpage: ""
-  role: Postdoctoral Researcher
-  name: Position to be filled
-  image: assets/images/teamMember.svg
-  link: "http://www.conflictpatterns.com/openPositions"
-
-
-  
