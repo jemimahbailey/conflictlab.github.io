@@ -11,8 +11,8 @@
   code: 
   image: assets/images/tcd-min.jpeg
   description: Research fellow with focus on Machine Learning and/or forecasting
-  location: "Expected start date: January 2022"
-  link: RF1
+  location: "Expected start date: as soon as possible"
+  link: "assets/files/RF2023.pdf"
   
 #- name: Research assistant
 #  code: 
@@ -36,24 +36,24 @@
 #  location: "Expected start date: September 2022"
 #  link: PhDB22
 
-- name: Postdoctoral Research position B
-  code: 
-  image: assets/images/tcd-min.jpeg
-  description: Postdoc with focus on Machine Learning and/or forecasting
-  location: "Expected start date: May 2022"
-  link: PDB23
+# - name: Postdoctoral Research position B
+#   code: 
+#   image: assets/images/tcd-min.jpeg
+#   description: Postdoc with focus on Machine Learning and/or forecasting
+#   location: "Expected start date: May 2022"
+#   link: PDB23
+# 
+# - name: Postdoctoral Research position C
+#   code: 
+#   image: assets/images/tcd-min.jpeg
+#   description: Postdoc with focus on Machine Learning and/or forecasting
+#   location: "Expected start date: January 2023"
+#   link: PDC24
 
-- name: Postdoctoral Research position C
-  code: 
-  image: assets/images/tcd-min.jpeg
-  description: Postdoc with focus on Machine Learning and/or forecasting
-  location: "Expected start date: January 2023"
-  link: PDC24
-
-- name: Postdoctoral Research position D
-  code: 
-  image: assets/images/tcd-min.jpeg
-  description: Postdoc with focus on Machine Learning and/or forecasting
-  location: "Expected start date: January 2024"
-  link: PDD25
+# - name: Postdoctoral Research position D
+#   code: 
+#   image: assets/images/tcd-min.jpeg
+#   description: Postdoc with focus on Machine Learning and/or forecasting
+#   location: "Expected start date: January 2024"
+#   link: PDD25
   
