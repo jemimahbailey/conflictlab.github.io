@@ -23,6 +23,14 @@ a.navbar-item:hover,
     color: white !important;
 }
 
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
 a.navbar-item.is-active {
     background-color: rgba($color: #fff, $alpha: 0.25) !important;
     color: white !important;
