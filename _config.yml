@@ -16,7 +16,7 @@ site-cv: assets/images/agincourt.jpg #meta.jpg
 # Keywords of the Site
 site-keywords: PaCE
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: assets/images/PaCE_final_icon.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: assets/images/agincourt.jpg #meta.jpg
