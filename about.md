@@ -21,6 +21,11 @@ Patterns of Conflict Emergence
 </center></h2>
 
 <h3><center>
+<img src='assets/images/PaCE_final_icon.png'>
+</a>
+</center></h3>
+
+<h3><center>
 <a href='http://www.conflictpatterns.com/openPositions'>PaCE is hiring!
 </a>
 </center></h3>
