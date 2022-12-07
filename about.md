@@ -21,8 +21,7 @@ Patterns of Conflict Emergence
 </center></h2>
 
 <h3><center>
-<img src='assets/images/PaCE_final_icon.png'>
-</a>
+<img src='assets/images/PaCE_final_icon.png' width="30%">
 </center></h3>
 
 <h3><center>
